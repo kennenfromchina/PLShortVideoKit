@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/pili-engineering/PLShortVideoKit"
   s.license      = "Apache License 2.0"
   s.author       = { "pili" => "pili@qiniu.com" }
-  s.source       = { :http => "https://sdk-release.qnsdk.com/PLShortVideoKit-profession-v#{s.version}.zip"}
+  s.source       = { :http => "https://sdk-release.qiniushawn.top/PLShortVideoKit-profession-v#{s.version}.zip"}
   s.platform     = :ios
   s.requires_arc = true
 
